@@ -1,7 +1,7 @@
-- Hi, I’m @sammuu0, or Sam...
-- I am a student who's really bad at handing things in on time.
+- Hi, I’m @samuelpita, or Sam.
 - I like croissants dipped in chocolate!
-- I don't know what I'm supposed to type here.
+- I am currently learning web development, and Svelte.
+- I'm still totally new to GitHub (even though I had this account for a while)
 
 <!---
 sammuu0/sammuu0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
